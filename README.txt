@@ -1,0 +1,1 @@
+Az ex3.sln-t kell megnyitni az ETL-ekhez, az ex4.pbix a reportokhoz.
